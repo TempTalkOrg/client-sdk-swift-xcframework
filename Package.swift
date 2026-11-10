@@ -12,13 +12,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiveKit",
-            url: "https://github.com/TempTalkOrg/client-sdk-swift-xcframework/releases/download/2.15.2-a15/LiveKit.xcframework.zip",
-            checksum: "7169fd17b0cca9ca47154b64b192cfc6568cf6f04cf692d385fcad51f4691b65"
+            url: "https://github.com/TempTalkOrg/client-sdk-swift-xcframework/releases/download/2.15.2-a16/LiveKit.xcframework.zip",
+            checksum: "bcfb844a693c72c425c7a79f231f3f6ce0aa4db799504089c900bf0ef38fa68b"
         ),
         .binaryTarget(
             name: "LiveKitWebRTC",
-            url: "https://github.com/TempTalkOrg/webrtc-xcframework/releases/download/144.7559.15/LiveKitWebRTC.xcframework.zip",
-            checksum: "9003e3ae71ec76abd4b2495121e582ca0930b3d4c7a09ef5ce6ea7004c80004b"
+            url: "https://github.com/TempTalkOrg/webrtc-xcframework/releases/download/144.7559.17/LiveKitWebRTC.xcframework.zip",
+            checksum: "b34a6a5c2ee85066820679b3032063d158122354a4da53a33e49f667f09573df"
         ),
         .binaryTarget(
             name: "RustLiveKitUniFFI",
