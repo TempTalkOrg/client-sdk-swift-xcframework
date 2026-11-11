@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiveKit",
-            url: "https://github.com/TempTalkOrg/client-sdk-swift-xcframework/releases/download/2.15.2-a17/LiveKit.xcframework.zip",
-            checksum: "59f432cc6d211dba9f818730fe14f6736c37e13dc26c2cfa8cce8e85b5b5aac9"
+            url: "https://github.com/TempTalkOrg/client-sdk-swift-xcframework/releases/download/2.15.2-a18/LiveKit.xcframework.zip",
+            checksum: "15484c388cb93e55e202b1ed544fdf7d817e401467c88df2bbe23d860c755c4d"
         ),
         .binaryTarget(
             name: "LiveKitWebRTC",
