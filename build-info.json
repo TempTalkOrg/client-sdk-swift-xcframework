@@ -1,10 +1,10 @@
 {
-  "checksum": "15484c388cb93e55e202b1ed544fdf7d817e401467c88df2bbe23d860c755c4d",
+  "checksum": "a1dc38eabe39c9f092a1abe6db017f16e69c7ca0b58b1c5f9d6b954cd7ce51b2",
   "uniffi": {
     "checksum": "0d3f2ce159a224c728f8b131068d53bbf9b13d968cda0edc68a6a2290f2651ed",
     "url": "https://github.com/livekit/livekit-uniffi-xcframework/releases/download/0.0.6/RustLiveKitUniFFI.xcframework.zip"
   },
-  "version": "2.15.2-a18",
+  "version": "2.15.2-a19",
   "webrtc": {
     "checksum": "b34a6a5c2ee85066820679b3032063d158122354a4da53a33e49f667f09573df",
     "url": "https://github.com/TempTalkOrg/webrtc-xcframework/releases/download/144.7559.17/LiveKitWebRTC.xcframework.zip"
